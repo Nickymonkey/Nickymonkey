@@ -3,6 +3,7 @@
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![C++](https://img.shields.io/badge/-C++-black)
+![C#](https://img.shields.io/badge/-Csharp-black?style=flat-square&logo=csharp)
 ![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift)
 ![SQL](https://img.shields.io/badge/-SQL-black)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
