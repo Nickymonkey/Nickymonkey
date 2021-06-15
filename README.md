@@ -17,7 +17,7 @@ I am a VR/AR enthusiast passionate about the future of software and pushing the 
 **Me, in a nutshell:**
 
 - 📍 Los Angeles, CA
-- 💼 Coordinator @ [The Third Floor](https://thethirdfloorinc.com/)
+- 💼 Software Developer @ [Partner Engineering & Science Inc.](https://www.partneresi.com/)
 
 ## Find me on
 - <a href="https://www.linkedin.com/in/nicholas-r-070644b6/">LinkedIn</a>
