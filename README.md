@@ -5,7 +5,7 @@ Software engineer with 5+ years of experience designing, developing and implemen
 **Me, in a nutshell:**
 
 - 📍 Los Angeles, CA
-- 💼 Software Developer @ [Partner Engineering & Science Inc.](https://www.partneresi.com/)
+- 💼 Software Engineer @ [Partner Engineering & Science Inc.](https://www.partneresi.com/)
 
 ## Find me on
 - <a href="https://www.linkedin.com/in/nicholas-r-070644b6/">LinkedIn</a>
